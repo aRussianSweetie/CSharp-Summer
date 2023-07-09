@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\General\\C#\\Project C\\Project C.csproj": {}
+    "D:\\Code\\General\\Summer C#\\Project C\\Project C.csproj": {}
   },
   "projects": {
-    "D:\\Code\\General\\C#\\Project C\\Project C.csproj": {
+    "D:\\Code\\General\\Summer C#\\Project C\\Project C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\General\\C#\\Project C\\Project C.csproj",
+        "projectUniqueName": "D:\\Code\\General\\Summer C#\\Project C\\Project C.csproj",
         "projectName": "Project C",
-        "projectPath": "D:\\Code\\General\\C#\\Project C\\Project C.csproj",
+        "projectPath": "D:\\Code\\General\\Summer C#\\Project C\\Project C.csproj",
         "packagesPath": "C:\\Users\\ender\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\General\\C#\\Project C\\obj\\",
+        "outputPath": "D:\\Code\\General\\Summer C#\\Project C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ender\\AppData\\Roaming\\NuGet\\NuGet.Config"
